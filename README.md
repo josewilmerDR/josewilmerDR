@@ -8,7 +8,7 @@
 
 - 📝 Soy un desarrollar web fullstack con amplia experiencia como administrador de empresas.
 
-- 📫 Contactame **josewilmerdr@gmail.com**
+- 📫 Contáctame **josewilmerdr@gmail.com**
 
 - 🌱 Actualmente estoy profundizando mi conocimiento sobre React, bases de datos e inteligencia artificial.
 
@@ -39,6 +39,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josewilmerDR&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=josewilmerDR&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josewilmerDR&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josewilmerDR)](https://github.com/josewilmerDR/github-readme-stats)
