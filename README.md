@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Soy un desarrollar web fullstack con amplia experiencia como administrador de empresas.
+- 📝 Como desarrollar web fullstack soy un excelente administrador de empresas.
 
 - 📫 Contáctame **josewilmerdr@gmail.com**
 
