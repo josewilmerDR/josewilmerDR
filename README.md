@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Jose Wilmer</h1>
-    <h3 align="center">Un apasionado del desarrollor web. Amo aprender</h3>
+    <h3 align="center">Desarrollor web, etc</h3>
 </div>
 ---
 
@@ -12,7 +12,7 @@
 
 - 🌱 Actualmente estoy profundizando mi conocimiento sobre React, bases de datos e inteligencia artificial.
 
-- Mis mejores proyectos: [[TossUp](https://github.com/josewilmerDR/tossupp)] - [[Markettika](https://github.com/josewilmerDR/markettika)] - [[Dictter](https://github.com/josewilmerDR/dicttapp)]
+- Mis mejores proyectos: [[Aurora](https://github.com/josewilmerDR/aurora)] - [[Markettika](https://github.com/josewilmerDR/markettika)] - [[Dictter](https://github.com/josewilmerDR/dicttapp)]
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
