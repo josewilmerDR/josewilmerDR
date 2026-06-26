@@ -6,13 +6,9 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Como desarrollar web fullstack soy un excelente administrador de empresas.
+- 📝 Desarrollar web fullstack.
 
 - 📫 Contáctame **josewilmerdr@gmail.com**
-
-- 🌱 Actualmente estoy profundizando mi conocimiento sobre React, bases de datos e inteligencia artificial.
-
-- Mis mejores proyectos: [[Aurora](https://github.com/josewilmerDR/aurora)] - [[Markettika](https://github.com/josewilmerDR/markettika)] - [[Dictter](https://github.com/josewilmerDR/dicttapp)]
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
